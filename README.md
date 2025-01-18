@@ -57,4 +57,5 @@ Coverage: Measures the proportion of items that can be recommended.
 Novelty: Measures the extent to which recommendations are new and unexpected.
 Diversity: Measures the variety of items recommended.
 
+# Output of the Projet
 ![Screenshot 1946-10-28 at 1 17 17 PM](https://github.com/user-attachments/assets/51b087a7-dd75-4664-8924-7d0ccea3f25b)
